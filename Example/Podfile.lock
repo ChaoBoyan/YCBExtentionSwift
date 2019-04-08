@@ -1,5 +1,7 @@
 PODS:
-  - YCBExtention (0.1.0)
+  - YCBExtention (0.1.0):
+    - YCBExtention/UIColor (= 0.1.0)
+  - YCBExtention/UIColor (0.1.0)
 
 DEPENDENCIES:
   - YCBExtention (from `../`)
@@ -9,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YCBExtention: 8ad204b592c19a6236d11c1ce93a473a0b7d4ba4
+  YCBExtention: 97dd2d3fc7df563312b443983846cc96ffc3af15
 
 PODFILE CHECKSUM: 9d3f2333d4f63de9cbbfb9d69c26246210986bb7
 

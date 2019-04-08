@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "YCBExtention about extention in Swift.",
   "description": "'YCBExtention about extention in Swift ,eg:UIColor,UIButton。。。'",
-  "homepage": "https://github.com/chaoboyan/YCBExtention",
+  "homepage": "https://github.com/ChaoBoyan/YCBExtentionSwift",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -19,5 +19,11 @@
     "ios": "9.0"
   },
   "source_files": "YCBExtention/Classes/**/*",
-  "swift_version": "4.2"
+  "swift_version": "4.2",
+  "subspecs": [
+    {
+      "name": "UIColor",
+      "source_files": "YCBExtention/Classes/UIColor/**/*"
+    }
+  ]
 }
