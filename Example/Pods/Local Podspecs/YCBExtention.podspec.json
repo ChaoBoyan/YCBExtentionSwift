@@ -1,8 +1,8 @@
 {
   "name": "YCBExtention",
   "version": "0.1.0",
-  "summary": "A short description of YCBExtention.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "YCBExtention about extention in Swift.",
+  "description": "'YCBExtention about extention in Swift ,eg:UIColor,UIButton。。。'",
   "homepage": "https://github.com/chaoboyan/YCBExtention",
   "license": {
     "type": "MIT",
@@ -16,7 +16,8 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
-  "source_files": "YCBExtention/Classes/**/*"
+  "source_files": "YCBExtention/Classes/**/*",
+  "swift_version": "4.2"
 }

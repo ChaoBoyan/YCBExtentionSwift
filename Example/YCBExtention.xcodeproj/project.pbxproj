@@ -29,8 +29,8 @@
 
 /* Begin PBXFileReference section */
 		09410651D0CE914182DE528D /* Pods-YCBExtention_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YCBExtention_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YCBExtention_Tests/Pods-YCBExtention_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		384D50B021B050AE1573D1D6 /* YCBExtention.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YCBExtention.podspec; path = ../YCBExtention.podspec; sourceTree = "<group>"; };
-		4BFA6B2BD6F8BFFB04A9EFB5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		384D50B021B050AE1573D1D6 /* YCBExtention.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YCBExtention.podspec; path = ../YCBExtention.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		4BFA6B2BD6F8BFFB04A9EFB5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		58ED9F593F1B9E826D46E31A /* Pods_YCBExtention_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YCBExtention_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* YCBExtention_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YCBExtention_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		63E4C48068D64319FC124C21 /* Pods_YCBExtention_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YCBExtention_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		72F6D1C2BA2F8084EE8F14F2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		72F6D1C2BA2F8084EE8F14F2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		8E6162ECD849EFCA9528EA37 /* Pods-YCBExtention_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YCBExtention_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-YCBExtention_Tests/Pods-YCBExtention_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D75A4765184C030BCBE786F1 /* Pods-YCBExtention_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YCBExtention_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-YCBExtention_Example/Pods-YCBExtention_Example.release.xcconfig"; sourceTree = "<group>"; };
 		EFF0DD1A5D501585534D8184 /* Pods-YCBExtention_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YCBExtention_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YCBExtention_Example/Pods-YCBExtention_Example.debug.xcconfig"; sourceTree = "<group>"; };
