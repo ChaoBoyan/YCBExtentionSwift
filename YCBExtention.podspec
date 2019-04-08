@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   'YCBExtention about extention in Swift ,eg:UIColor,UIButton。。。'
                        DESC
 
-  s.homepage         = 'https://github.com/ChaoBoyan/YCBExtentionSwift.git'
+  s.homepage         = 'https://github.com/ChaoBoyan/YCBExtentionSwift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'chaoboyan' => '1297595138@qq.com' }
