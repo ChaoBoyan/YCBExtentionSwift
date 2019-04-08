@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YCBExtention_Example' do
+  pod 'YCBExtention', :path => '../'
+
+  target 'YCBExtention_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
